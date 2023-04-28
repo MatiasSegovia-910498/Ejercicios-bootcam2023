@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+.Enunciado1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 900;
+            font-size: 66px;
+            color: white;
+            background-color: black;
+}
+.Enunciado2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 197px;
+    font-weight: 900
+}
+.Enunciado3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 217px;
+    color: white;
+    background-color: black;
+    font-weight: 900;
+}
+.Enunciado4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    margin: 0%;
+    color: black;
+    background-color: white;
+}
+.Enunciado5 {
+    font-family: 'Monserrat',sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+.Enunciado6 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    margin: 0%;
+    padding: 50px;
+}
+
+.margin0 {
+    margin: 0%;
+}
+
+.padding200 {
+    padding: 200px;
+    margin: 0%;
+}
+.centro {
+    text-align: center;
+}
+.paddtop{
+    padding-bottom: 100px;
+    padding-top: 50px;
+    margin: 0%;
+}
+.marg-0{
+    margin: 0%;
+}
+.pedding50{
+    margin: 0%;
+    padding: 100;
+}
