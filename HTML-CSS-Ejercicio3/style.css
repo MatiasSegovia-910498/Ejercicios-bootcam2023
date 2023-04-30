@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap');
+
+.centro{
+    text-align: center;
+}
+.primero{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+    margin: 0%;
+    background-color: #04146c;
+    color: white;
+}
+.segundo{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 88px;
+    font-weight: 900;
+    margin-top: 5%;
+    background-color: white;
+    color: #04146c;
+}
+.tercero{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0%;
+    background-color: white;
+    color: #04146c;
+}
+.cuarto{
+    background-color: white;
+    margin: 0%;
+    text-align: center;
+    width: 600px;
+}
+.quinto{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0%;
+    background-color:  #edf7ff;
+    color: #04146c;
+}
