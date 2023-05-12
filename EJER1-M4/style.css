@@ -1,0 +1,60 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+ body{
+  background-image: url(../EJER1-M4/Recursos/Ejercicio\ 1/M4-desafio1-fondo.png);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+ }
+ .img1{
+  background-image: url(../EJER1-M4/Recursos/Ejercicio\ 1/M4-desafio1-fondo-form.png);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20%;
+  width: 50%;
+ }
+ .title{
+  font-family: 'Mulish', sans-serif;
+  font-size: 33px;
+  font-weight: 700px;
+  color: #04146c;
+ }
+ form{
+  background-color: white;
+  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  height: 400px;
+  padding: 20px;
+  display: flex;
+ }
+ strong{
+  margin-top: 0;
+ }
+ .button1{
+  height: 50px;
+  width: 500px;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family:'Mulish', sans-serif;
+  font-weight: 400px;
+  font-size: 22px;
+  color: #414166;
+  text-align: left;
+ }
+ .button2{
+  font-family:'Mulish', sans-serif;
+  font-weight: 600px;
+  font-size: 23px;
+  color: white;
+  background-color: #15163d;
+  height: 50px;
+  width: 500px;
+  margin-bottom: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+ }
